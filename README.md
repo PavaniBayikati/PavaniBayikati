@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi there, I'm Pavani Bayaikait 👋<br>I'm a passionate and dedicated Computer Science & Engineering student at GITAM University, Bengaluru. Currently, I’m exploring the intersection of Full stack Web Development, AI, Machine Learning, and Data Science.<br><br>Alongside my academic pursuits, I’m working on several projects involving machine learning models, deep learning architectures like LSTMs, and data preprocessing techniques for real-world problems, such as predicting chronic kidney disease progression using temporal clinical data.<br><br>I also enjoy contributing to the open-source community and continuously improving my coding skills in Python, Java, and JavaScript. My goal is to leverage technology to solve complex problems and create meaningful impact through innovative solutions.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Pavani_fen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavani-bayikati) 
 
